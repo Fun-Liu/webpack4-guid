@@ -6,3 +6,5 @@ const img = new Image()
 img.src = Cup
 document.body.appendChild(img)
 myPrint()
+
+//###3
