@@ -8,3 +8,4 @@ document.body.appendChild(img)
 myPrint()
 
 //###3
+//####
